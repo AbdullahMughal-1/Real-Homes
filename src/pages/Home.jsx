@@ -22,14 +22,14 @@ function Home() {
       <Navbar />
       <Hero />
       <SearchBar />
-      <PropertyList /> {/* Added after search bar */}
-      <ContactSection/>
-        <PropertyTypeSection />
-         <BuySellSection />
-            <AgentSection />
-            <Testmonials/>
-                <PartnerSection/>
-                <Footer/>
+      <PropertyList />
+      <ContactSection />
+      <PropertyTypeSection />
+      <BuySellSection />
+      <AgentSection />
+      <Testmonials />
+      <PartnerSection />
+      <Footer />
     </div>
   );
 }
